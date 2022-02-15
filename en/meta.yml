@@ -1,0 +1,9 @@
+title: Wire a stereo buzzer
+hero_image: images/banner.png
+description: Wire a stereo buzzer to a Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-15"
+steps:
+  - title: Wire a stereo buzzer
