@@ -1,13 +1,13 @@
-To wire two buzzers to a Raspberry Pi Pico, you will need:
+Om twee zoemers op een Raspberry Pi Pico aan te sluiten, heb je het volgende nodig:
 
-+ A Raspberry Pi Pico
-+ 2 x passive buzzers
++ Een Raspberry Pi Pico
++ 2 x passieve zoemers
 + 4 x socket-socket jumper wires
 
 Take the **first buzzer** and connect the **positive** leg to **GP5** and the **negative** leg to the nearest **GND** pin.
 
-Next, take the **second buzzer** and connect the **positive** leg to **GP10** and the **negative** leg to the nearest **GND** pin.
+Neem vervolgens de **tweede buzzer** en verbind het **positieve** been aan **GP10** pin en het **negatieve** been aan de dichtstbijzijnde **GND** pin.
 
-**Tip**: To identify the positive leg on a buzzer, look for the longest leg. You may also be able to see a **+** symbol on the top of the buzzer.
+**Tip**: Om het positieve been op een zoemer te vinden, zoek je het langste been. Je kunt het ook zien door het **+** symbool aan de bovenkant van de zoemer.
 
-![A diagram of two buzzers connected to a Raspberry Pi Pico.](images/stereo-buzzer-wiring.png)
+![Een afbeelding van twee zoemers die zijn aangesloten op een Raspberry Pi Pico.](images/stereo-buzzer-wiring.png)
