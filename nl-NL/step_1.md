@@ -2,9 +2,9 @@ Om twee zoemers op een Raspberry Pi Pico aan te sluiten, heb je het volgende nod
 
 + Een Raspberry Pi Pico
 + 2 x passieve zoemers
-+ 4 x socket-socket jumper wires
++ 4 x bus-bus jumperdraden
 
-Take the **first buzzer** and connect the **positive** leg to **GP5** and the **negative** leg to the nearest **GND** pin.
+Neem de **eerste zoemer** en verbind het **positieve** been met **GP5** en het **negatieve** been met de dichtstbijzijnde **GND** pin.
 
 Neem vervolgens de **tweede buzzer** en verbind het **positieve** been aan **GP10** pin en het **negatieve** been aan de dichtstbijzijnde **GND** pin.
 
